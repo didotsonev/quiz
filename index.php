@@ -13,7 +13,7 @@ echo '<p>-------------------</p>';
 
 $quotes2 = [
     '0' => [
-        'author' => 'Ivan',
+        'author' => 'Ivan2',
         'quote' => 'test'
     ],
     '1' => [
